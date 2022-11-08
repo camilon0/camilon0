@@ -42,7 +42,7 @@
   <img align="center" src="assets/tools/git.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/notion.png" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/office365.png" width="50px" />&nbsp;
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/1200px-Microsoft_365_%282022%29.svg.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/excel.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;
