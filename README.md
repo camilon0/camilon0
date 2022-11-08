@@ -12,12 +12,13 @@
 
 > <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-<img align="right" width=250px alt="shinchan" src="assets/gifs/aot-snk.gif" />
+<img align="right" width=270px alt="erwin" src="assets/gifs/aot-snk.gif" />
 
 -   🔭 I’m currently looking for a place where I can grow as a programmer.
 -   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
 -   💬 I'm happy to help!
 -   ⚡ Fun fact: I like **bonsais and plants, coding, video games and anime, listening to music and dance salsa, eating chips and I think that's about it**. I dislike everything except my likes!
+
 <hr>
 
 <p align = "center">
