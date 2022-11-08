@@ -7,7 +7,7 @@
     :sparkles: Favorite Tech: React, Javascript ... <br>
     :notebook: I am currently in the process of learning in depth the entire web development environment with ReactJs.<br>
     :email:	kmilo8433@gmail.com <br>    
-    :briefcase: LinkedIn: https://linkedin.com/in/joni <br>    
+    :briefcase: LinkedIn: https://www.linkedin.com/in/camilo0/ <br>    
     
   </samp>
 </p>
