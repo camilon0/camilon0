@@ -5,7 +5,7 @@
 <p align="center">
   <em>
     Hello, I'm Camilo! <br>
-    I'm Software developer and biomedical engineering <img src="assets/gifs/mechanical-arm-people.gif" width="30px">, I'm in the process of becoming <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp, who is in the process of growing as <img src="assets/gifs/Rocket.gif" width="18px"> a person and on the road to professional growth  <img src="assets/gifs/Medal.gif" width="20px">. 
+    I'm Software developer and biomedical engineering <img src="assets/gifs/mechanical-arm-people.gif" width="30px">, I'm in the process of becoming <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>;<img src="assets/gifs/Designer.gif" width="36px">&nbsp, who is in the process of growing as <img src="assets/gifs/Rocket.gif" width="18px"> a person and on the road to professional growth  <img src="assets/gifs/Medal.gif" width="20px">. 
     
   </em>
 </p>
