@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**camilon0/camilon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <samp>
+    Hello, I'm Camilo! 👋
+    Software developer and biomedical engineering<br>
+    :school: Metropolitan Technological Institute and MAKAIA of Medellin Colombia<br>
+    :sparkles: Favorite Tech: React, Javascript ... <br>
+    :notebook: I am currently in the process of learning in depth the entire web development environment with ReactJs.<br>
+    :email:	kmilo8433@gmail.com <br>    
+    :briefcase: LinkedIn: https://linkedin.com/in/joni <br>    
+    
+  </samp>
+</p>
