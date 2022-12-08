@@ -24,7 +24,7 @@
 <p align = "center">
 <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=camilon0&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="camilon0" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilon0&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&layout=compact" alt="camilon0" /> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=camilon0&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true" alt="camilon0" />
+
   <p align = "center"><img align="center" src="https://wakatime.com/badge/user/f61cccef-c2f3-447e-8388-7d8f4b394773.svg" > </p>  
 </p>
 <hr>
